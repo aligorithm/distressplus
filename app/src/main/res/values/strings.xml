@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Distress Plus</string>
+    <string name="base_url">https://distressplus.herokuapp.com/api/v1/</string>
+</resources>
